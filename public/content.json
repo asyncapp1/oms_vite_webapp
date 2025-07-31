@@ -243,10 +243,10 @@
       "title": "Download Aap Ka Parcha",
       "subtitle": "Get started on your favorite platform. Access your restaurant's dashboard from anywhere.",
       "cards": [
-        { "icon": "AndroidIcon", "platform": "Android", "description": "Manage your business on the go with our fully-featured Android application." },
-        { "icon": "WindowsIcon", "platform": "Windows", "description": "Powerful desktop experience for comprehensive management on your Windows PC." },
-        { "icon": "AppleIcon", "platform": "macOS", "description": "A sleek and intuitive native application for your macOS devices." },
-        { "icon": "WebIcon", "platform": "Web App", "description": "Access the full suite of tools directly from your browser. No installation required." }
+        { "icon": "AndroidIcon", "platform": "Android", "description": "Manage your business on the go with our fully-featured Android application.", "url": null, "cta": "Coming Soon" },
+        { "icon": "WindowsIcon", "platform": "Windows", "description": "Powerful desktop experience for comprehensive management on your Windows PC.", "url": null, "cta": "Coming Soon" },
+        { "icon": "AppleIcon", "platform": "macOS", "description": "A sleek and intuitive native application for your macOS devices.", "url": null, "cta": "Coming Soon" },
+        { "icon": "WebIcon", "platform": "Web App", "description": "Access the full suite of tools directly from your browser. No installation required.", "url": "https://www.asyncapps.com/#/splash", "cta": "Open Now" }
       ],
       "cta": "Download Now"
     },
@@ -503,10 +503,10 @@
       "title": "आप का परचा डाउनलोड करें",
       "subtitle": "अपने पसंदीदा प्लेटफॉर्म पर शुरुआत करें। कहीं से भी अपने रेस्टोरेंट के डैशबोर्ड तक पहुंचें।",
       "cards": [
-        { "icon": "AndroidIcon", "platform": "Android", "description": "हमारे पूरी तरह से चित्रित एंड्रॉइड एप्लिकेशन के साथ चलते-फिरते अपने व्यवसाय का प्रबंधन करें।" },
-        { "icon": "WindowsIcon", "platform": "Windows", "description": "आपके विंडोज पीसी पर व्यापक प्रबंधन के लिए शक्तिशाली डेस्कटॉप अनुभव।" },
-        { "icon": "AppleIcon", "platform": "macOS", "description": "आपके macOS उपकरणों के लिए एक चिकना और सहज देशी एप्लिकेशन।" },
-        { "icon": "WebIcon", "platform": "Web App", "description": "अपने ब्राउज़र से सीधे टूल के पूरे सूट तक पहुंचें। कोई स्थापना की आवश्यकता नहीं है।" }
+        { "icon": "AndroidIcon", "platform": "Android", "description": "हमारे पूरी तरह से चित्रित एंड्रॉइड एप्लिकेशन के साथ चलते-फिरते अपने व्यवसाय का प्रबंधन करें।", "url": null, "cta": "जल्द आ रहा है" },
+        { "icon": "WindowsIcon", "platform": "Windows", "description": "आपके विंडोज पीसी पर व्यापक प्रबंधन के लिए शक्तिशाली डेस्कटॉप अनुभव।", "url": null, "cta": "जल्द आ रहा है" },
+        { "icon": "AppleIcon", "platform": "macOS", "description": "आपके macOS उपकरणों के लिए एक चिकना और सहज देशी एप्लिकेशन।", "url": null, "cta": "जल्द आ रहा है" },
+        { "icon": "WebIcon", "platform": "Web App", "description": "अपने ब्राउज़र से सीधे टूल के पूरे सूट तक पहुंचें। कोई स्थापना की आवश्यकता नहीं है।", "url": "https://www.asyncapps.com/#/splash", "cta": "अभी खोलें" }
       ],
       "cta": "अभी डाउनलोड करें"
     },

@@ -7,7 +7,7 @@ import {
     CashIcon, ChartBarIcon, LightBulbIcon, QrCodeIcon, DeviceMobileIcon, CheckCircleIcon, ClockIcon, CreditCardIcon, ShieldCheckIcon,
     CodeIcon, SearchCircleIcon, StarIcon, RefreshIcon, UsersIcon, ChatAlt2Icon, SupportIcon, BookOpenIcon, CogIcon, RocketLaunchIcon,
     KeyIcon, DatabaseIcon, EyeOffIcon, CloudUploadIcon, ServerIcon, DeviceTabletIcon, WifiOffIcon, SparklesIcon,
-    CoffeeIcon, BeakerIcon, EmojiSadIcon
+    CoffeeIcon, BeakerIcon, EmojiSadIcon, ExternalLinkIcon
 } from './icons/HeroIcons';
 
 import { 
@@ -19,7 +19,7 @@ const iconMap: { [key: string]: React.FC<IconProps> } = {
     CashIcon, ChartBarIcon, LightBulbIcon, QrCodeIcon, DeviceMobileIcon, CheckCircleIcon, ClockIcon, CreditCardIcon, ShieldCheckIcon,
     CodeIcon, SearchCircleIcon, StarIcon, RefreshIcon, UsersIcon, ChatAlt2Icon, SupportIcon, BookOpenIcon, CogIcon, RocketLaunchIcon,
     KeyIcon, DatabaseIcon, EyeOffIcon, CloudUploadIcon, ServerIcon, DeviceTabletIcon, WifiOffIcon, SparklesIcon,
-    CoffeeIcon, BeakerIcon, EmojiSadIcon,
+    CoffeeIcon, BeakerIcon, EmojiSadIcon, ExternalLinkIcon,
     AndroidIcon, AppleIcon, WindowsIcon, WebIcon, DownloadIcon
 };
 

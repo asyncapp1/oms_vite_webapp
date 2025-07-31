@@ -138,3 +138,7 @@ export const DeviceTabletIcon: React.FC<IconProps> = (props) => (
 export const WifiOffIcon: React.FC<IconProps> = (props) => (
     <svg {...props} xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M18.364 5.636a9 9 0 01-12.728 0M11.636 9.636a5 5 0 01-7.072 0M15 13a3 3 0 01-4.243 0M3 3l18 18" /></svg>
 );
+
+export const ExternalLinkIcon: React.FC<IconProps> = (props) => (
+    <svg {...props} xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+);
