@@ -1,0 +1,523 @@
+
+{
+  "en": {
+    "appName": "Aap Ka Parcha",
+    "header": {
+      "navLinks": [
+        { 
+          "name": "Solutions", 
+          "children": [
+            { "name": "For Restaurants", "href": "/solutions/restaurant" },
+            { "name": "For Cafes", "href": "/solutions/cafe" },
+            { "name": "For Bars", "href": "/solutions/bar" },
+            { "name": "For Hotels", "href": "/solutions/hotel" }
+          ]
+        },
+        { "name": "Features", "href": "#features" },
+        { "name": "Benefits", "href": "#benefits" },
+        { "name": "Get Started", "href": "#get-started" }
+      ],
+      "cta": "Download App",
+      "languageSwitcher": "हिन्दी"
+    },
+    "hero": {
+      "titleLine1": "Revolutionize Your Hospitality Business with",
+      "titleLine2": "Aap Ka Parcha RMS",
+      "subtitle": "The all-in-one digital platform to manage your menu, inventory, staff, and orders seamlessly. Boost efficiency, increase revenue, and delight your customers.",
+      "primaryCta": "Get Started Free",
+      "secondaryCta": "Download App"
+    },
+    "whatIsRMS": {
+      "title": "What is \"Aap Ka Parcha\" RMS?",
+      "description": "The Restaurant Management System (RMS) is a comprehensive digital platform designed to revolutionize how restaurants, cafes, bars, hotels, and other service businesses manage their operations. It transforms traditional paper-based ordering into a seamless digital experience that benefits both customers and business owners."
+    },
+    "homeSolutions": {
+      "title": "Tailored for Your Business",
+      "subtitle": "No matter your size or specialty, Aap Ka Parcha has a solution designed to meet your unique needs.",
+      "items": [
+        { "icon": "MenuAlt2Icon", "title": "Restaurants", "description": "Streamline orders, manage tables, and optimize kitchen workflow for any dining experience.", "href": "/solutions/restaurant" },
+        { "icon": "CoffeeIcon", "title": "Cafes", "description": "Handle peak hours with fast ordering, simple inventory, and customer loyalty tools.", "href": "/solutions/cafe" },
+        { "icon": "BeakerIcon", "title": "Bars & Pubs", "description": "Gain precise control over beverage inventory, cocktail recipes, and quick billing.", "href": "/solutions/bar" },
+        { "icon": "OfficeBuildingIcon", "title": "Hotels", "description": "Integrate all your F&B outlets, from in-room dining to your restaurant, on one platform.", "href": "/solutions/hotel" }
+      ]
+    },
+    "features": {
+      "owners": {
+        "id": "features",
+        "title": "For Business Owners & Managers",
+        "subtitle": "A complete suite of tools to empower your business and delight your patrons.",
+        "categories": [
+          {
+            "categoryTitle": "Business & Outlet Management",
+            "features": [
+              { "icon": "OfficeBuildingIcon", "title": "Multi-Location Support", "description": "Manage multiple outlets from a single, intuitive dashboard." },
+              { "icon": "UserCircleIcon", "title": "Business Profile Management", "description": "Easily update business details, contact info, and branding." },
+              { "icon": "KeyIcon", "title": "Secure Authentication", "description": "Safe login with OTP verification and password protection for peace of mind." },
+              { "icon": "CogIcon", "title": "Outlet Creation", "description": "Set up multiple locations with unique settings, hours, and capacity." }
+            ]
+          },
+          {
+            "categoryTitle": "Menu & Inventory Management",
+            "features": [
+              { "icon": "MenuAlt2Icon", "title": "Category Management", "description": "Organize items into categories like Appetizers, Main Course, etc." },
+              { "icon": "BookOpenIcon", "title": "Recipe Management", "description": "Link menu items to ingredients for automatic, precise inventory tracking." },
+              { "icon": "CollectionIcon", "title": "Real-time Stock Tracking", "description": "Monitor inventory levels for all ingredients and receive low-stock alerts." },
+              { "icon": "CashIcon", "title": "Cost Analysis", "description": "Calculate the exact cost of producing each menu item for better pricing." }
+            ]
+          },
+          {
+            "categoryTitle": "Staff & Table Management",
+            "features": [
+              { "icon": "UserGroupIcon", "title": "Role-Based Access", "description": "Assign different permissions for Managers, Staff, Kitchen, etc." },
+              { "icon": "UsersIcon", "title": "Staff Performance Tracking", "description": "Monitor staff activities, order processing times, and efficiency." },
+              { "icon": "TableIcon", "title": "Table Status & Seating", "description": "Track table availability, occupancy, and manage assignments in real-time." },
+              { "icon": "QrCodeIcon", "title": "QR Code Generation", "description": "Create unique QR codes for each table. (Coming Soon)" }
+            ]
+          },
+          {
+            "categoryTitle": "Order Processing & Analytics",
+            "features": [
+              { "icon": "ShoppingCartIcon", "title": "Real-Time Orders", "description": "Receive instant notifications when customers place new orders." },
+              { "icon": "ClockIcon", "title": "Order Status Tracking", "description": "Monitor orders from pending to completed, including special instructions." },
+              { "icon": "ChartBarIcon", "title": "Sales Analytics", "description": "Track daily, weekly, and monthly sales performance to identify trends." },
+              { "icon": "LightBulbIcon", "title": "Business Intelligence", "description": "Optimize operations and track growth with key performance metrics." }
+            ]
+          }
+        ]
+      }
+    },
+    "solutions": {
+      "restaurant": {
+        "pageTitle": "Restaurant Management System | Aap Ka Parcha RMS",
+        "metaDescription": "The ultimate Restaurant Management System (RMS) to streamline your operations. Manage tables, orders, kitchen, and inventory seamlessly with Aap Ka Parcha.",
+        "hero": {
+          "titleLine1": "The Ultimate Management System",
+          "titleLine2": "For Your Restaurant",
+          "subtitle": "From fine dining to fast casual, our RMS provides the tools you need to increase table turnover, manage complex orders, and deliver an exceptional dining experience.",
+          "primaryCta": "Optimize Your Restaurant",
+          "secondaryCta": "See a Demo"
+        },
+        "features": {
+          "id": "restaurant-features",
+          "title": "Features Designed for Restaurants",
+          "subtitle": "Everything you need to run a successful and efficient restaurant.",
+          "categories": [
+            { "categoryTitle": "Core Restaurant Operations", "features": [
+                { "icon": "TableIcon", "title": "Advanced Table Management", "description": "Visualize your floor plan, track table status in real-time, and manage reservations efficiently." },
+                { "icon": "ShoppingCartIcon", "title": "Kitchen Order Tickets (KOT)", "description": "Automate order printing directly to the kitchen for faster, error-free preparation." },
+                { "icon": "MenuAlt2Icon", "title": "Dynamic Menu Engineering", "description": "Easily create daily specials, happy hour menus, and update item availability on the fly." },
+                { "icon": "ClockIcon", "title": "Real-time Order Tracking", "description": "Monitor every order from the moment it's placed until it's served, ensuring quality and speed." }
+            ]}
+          ]
+        }
+      },
+      "cafe": {
+        "pageTitle": "Cafe Management Software | Aap Ka Parcha RMS",
+        "metaDescription": "Streamline your cafe with our all-in-one management software. Handle quick orders, manage inventory for coffee and pastries, and build customer loyalty.",
+        "hero": {
+          "titleLine1": "Effortless Management Software",
+          "titleLine2": "For Your Cafe",
+          "subtitle": "Designed for the fast-paced cafe environment. Speed up your ordering process, manage inventory with ease, and keep your customers coming back for more.",
+          "primaryCta": "Streamline Your Cafe",
+          "secondaryCta": "Explore Features"
+        },
+        "features": {
+          "id": "cafe-features",
+          "title": "Features Designed for Cafes",
+          "subtitle": "Tools to help your cafe thrive in a competitive market.",
+          "categories": [
+            { "categoryTitle": "Core Cafe Operations", "features": [
+                { "icon": "RocketLaunchIcon", "title": "Quick Service Orders", "description": "An interface optimized for speed to handle high-volume walk-in and takeaway orders." },
+                { "icon": "StarIcon", "title": "Customer Loyalty Programs", "description": "Create and manage loyalty programs to reward your regulars and increase repeat business." },
+                { "icon": "CollectionIcon", "title": "Ingredient-Level Inventory", "description": "Track coffee beans, milk, syrups, and pastries to get low-stock alerts and reduce waste." },
+                { "icon": "CashIcon", "title": "Easy Payment Processing", "description": "Accept multiple payment methods including cards, UPI, and digital wallets for customer convenience." }
+            ]}
+          ]
+        }
+      },
+      "bar": {
+        "pageTitle": "Bar Management & Inventory System | Aap Ka Parcha RMS",
+        "metaDescription": "The complete bar management system for inventory control, fast billing, and recipe management. Track every pour and maximize your bar's profitability.",
+        "hero": {
+          "titleLine1": "Intelligent Management System",
+          "titleLine2": "For Your Bar",
+          "subtitle": "Maximize profitability and efficiency with precise inventory tracking, fast billing, and powerful recipe management. Take complete control of your bar operations.",
+          "primaryCta": "Control Your Bar",
+          "secondaryCta": "Request Info"
+        },
+        "features": {
+          "id": "bar-features",
+          "title": "Features Designed for Bars & Pubs",
+          "subtitle": "Tools to manage your inventory, staff, and sales with precision.",
+          "categories": [
+            { "categoryTitle": "Core Bar Operations", "features": [
+                { "icon": "CollectionIcon", "title": "Beverage Inventory Control", "description": "Track liquor, beer, and wine down to the millilitre. Automate stock deduction with every order." },
+                { "icon": "BookOpenIcon", "title": "Cocktail Recipe Management", "description": "Define recipes for all your cocktails to ensure consistency and accurate inventory tracking." },
+                { "icon": "CreditCardIcon", "title": "Fast Billing & Split Payments", "description": "Generate bills quickly and easily split them among groups to keep customers happy." },
+                { "icon": "ChartBarIcon", "title": "Sales & Profit Analytics", "description": "Identify your most profitable drinks and peak hours to optimize your menu and staffing." }
+            ]}
+          ]
+        }
+      },
+      "hotel": {
+        "pageTitle": "Hotel Restaurant Management | Aap Ka Parcha RMS",
+        "metaDescription": "Integrate your hotel's restaurant, bar, and room service operations with a single, powerful RMS. Manage orders, billing, and inventory across all your F&B outlets.",
+        "hero": {
+          "titleLine1": "Integrated F&B Management",
+          "titleLine2": "For Your Hotel",
+          "subtitle": "Seamlessly manage your hotel's restaurant, in-room dining, and bar from a single platform. Consolidate orders, inventory, and billing for ultimate efficiency.",
+          "primaryCta": "Unify Your Operations",
+          "secondaryCta": "Book a Consultation"
+        },
+        "features": {
+          "id": "hotel-features",
+          "title": "Features Designed for Hotels",
+          "subtitle": "A unified solution for all your food and beverage outlets.",
+          "categories": [
+            { "categoryTitle": "Core Hotel F&B Operations", "features": [
+                { "icon": "OfficeBuildingIcon", "title": "Multi-Outlet Management", "description": "Manage your restaurant, bar, cafe, and poolside service from one central dashboard." },
+                { "icon": "DeviceMobileIcon", "title": "In-Room Dining & Room Service", "description": "Allow guests to order directly from their rooms and bill charges directly to their stay." },
+                { "icon": "UserGroupIcon", "title": "Centralized Guest Profiles", "description": "Track guest preferences and order history across all F&B outlets for personalized service." },
+                { "icon": "ServerIcon", "title": "Integration with PMS", "description": "Sync with your existing Property Management System for seamless billing and operations. (Coming Soon)" }
+            ]}
+          ]
+        }
+      }
+    },
+    "benefits": {
+      "id": "benefits",
+      "title": "Business Benefits",
+      "subtitle": "Unlock your restaurant's full potential and see tangible results.",
+      "items": [
+        { "icon": "RocketLaunchIcon", "title": "Increased Revenue", "description": "Higher table turnover, upselling opportunities, and better customer satisfaction lead to more business." },
+        { "icon": "CashIcon", "title": "Cost Reduction", "description": "Lower labor costs, optimized inventory to reduce waste, and error reduction save you money." },
+        { "icon": "CogIcon", "title": "Operational Efficiency", "description": "Streamlined processes, real-time data access, and improved staff productivity." },
+        { "icon": "StarIcon", "title": "Enhanced Customer Experience", "description": "Modern convenience, contactless service, and personalization keep customers coming back." },
+        { "icon": "ServerIcon", "title": "24/7 Business Operations", "description": "System runs continuously with secure data backup, recovery, and multi-device support." },
+        { "icon": "WifiOffIcon", "title": "Offline Capability", "description": "Basic functionality remains available even with intermittent internet issues." }
+      ]
+    },
+    "gettingStarted": {
+      "id": "get-started",
+      "title": "Getting Started is Easy",
+      "subtitle": "Follow these simple steps to digitize your restaurant operations.",
+      "owner": {
+        "title": "For Business Owners",
+        "steps": [
+          { "icon": "UserCircleIcon", "title": "Register Business", "description": "Complete the simple registration process." },
+          { "icon": "OfficeBuildingIcon", "title": "Set Up Outlet", "description": "Add location details and operating hours." },
+          { "icon": "MenuAlt2Icon", "title": "Create Menu", "description": "Add categories and menu items with prices." },
+          { "icon": "CollectionIcon", "title": "Configure Inventory", "description": "Set up ingredients and link them to menu items." },
+          { "icon": "UserGroupIcon", "title": "Train Staff", "description": "Set up staff accounts and train them on the system." },
+          { "icon": "RocketLaunchIcon", "title": "Go Live", "description": "Start accepting digital orders from customers." }
+        ]
+      }
+    },
+    "security": {
+      "title": "Security & Privacy First",
+      "subtitle": "We are committed to protecting your business and customer data with industry-leading security standards.",
+      "features": [
+        { "icon": "ShieldCheckIcon", "title": "Secure Authentication", "description": "Multi-factor authentication for all business accounts." },
+        { "icon": "🔒", "title": "Encrypted Data", "description": "All sensitive business and customer information is fully encrypted." },
+        { "icon": "EyeOffIcon", "title": "Privacy Compliance", "description": "Robust customer data protection and privacy controls." },
+        { "icon": "CloudUploadIcon", "title": "Regular Backups", "description": "Automatic data backup and recovery systems to prevent data loss." },
+        { "icon": "CreditCardIcon", "title": "PCI Compliance", "description": "Adherence to secure payment processing standards." },
+        { "icon": "KeyIcon", "title": "Tokenized Payments", "description": "Secure payment information handling and fraud protection." }
+      ]
+    },
+    "comingSoon": {
+      "title": "Future Enhancements",
+      "subtitle": "We are constantly innovating. Here's a sneak peek at what's coming next.",
+      "features": [
+        { "icon": "QrCodeIcon", "title": "QR Code Generation", "description": "Create unique QR codes for each table to enable customer self-ordering." },
+        { "icon": "RefreshIcon", "title": "Third-Party Integrations", "description": "Integration with food delivery platforms like Zomato and Swiggy." },
+        { "icon": "StarIcon", "title": "Loyalty Programs", "description": "Implement rewards for repeat customers based on their order history." },
+        { "icon": "SearchCircleIcon", "title": "Advanced Analytics", "description": "Deeper insights into sales patterns, customer preferences, and inventory optimization." },
+        { "icon": "TableIcon", "title": "Table Reservation System", "description": "Allow customers to book tables in advance." },
+        { "icon": "CodeIcon", "title": "Integration with POS Systems", "description": "Sync with existing Point of Sale systems." },
+        { "icon": "LightBulbIcon", "title": "AI-Powered Recommendations", "description": "Suggest menu items to customers based on preferences." },
+        { "icon": "DeviceTabletIcon", "title": "Mobile App Version", "description": "Dedicated mobile applications for an even more seamless experience." }
+      ]
+    },
+    "downloadsPage": {
+      "title": "Download Aap Ka Parcha",
+      "subtitle": "Get started on your favorite platform. Access your restaurant's dashboard from anywhere.",
+      "cards": [
+        { "icon": "AndroidIcon", "platform": "Android", "description": "Manage your business on the go with our fully-featured Android application." },
+        { "icon": "WindowsIcon", "platform": "Windows", "description": "Powerful desktop experience for comprehensive management on your Windows PC." },
+        { "icon": "AppleIcon", "platform": "macOS", "description": "A sleek and intuitive native application for your macOS devices." },
+        { "icon": "WebIcon", "platform": "Web App", "description": "Access the full suite of tools directly from your browser. No installation required." }
+      ],
+      "cta": "Download Now"
+    },
+    "footer": {
+      "tagline": "Transforming restaurant operations into a seamless digital experience.",
+      "copyright": "© {year} Aap Ka Parcha RMS. All rights reserved."
+    },
+    "notFoundPage": {
+      "title": "Page Not Found",
+      "subtitle": "Oops! The page you are looking for does not exist.",
+      "cta": "Go to Homepage"
+    }
+  },
+  "hi": {
+    "appName": "आप का परचा",
+    "header": {
+      "navLinks": [
+        { 
+          "name": "समाधान", 
+          "children": [
+            { "name": "रेस्टोरेंट के लिए", "href": "/solutions/restaurant" },
+            { "name": "कैफे के लिए", "href": "/solutions/cafe" },
+            { "name": "बार के लिए", "href": "/solutions/bar" },
+            { "name": "होटल के लिए", "href": "/solutions/hotel" }
+          ]
+        },
+        { "name": "विशेषताएँ", "href": "#features" },
+        { "name": "लाभ", "href": "#benefits" },
+        { "name": "शुरू करें", "href": "#get-started" }
+      ],
+      "cta": "ऐप डाउनलोड करें",
+      "languageSwitcher": "English"
+    },
+    "hero": {
+      "titleLine1": "अपने आतिथ्य व्यवसाय में क्रांति लाएँ",
+      "titleLine2": "आप का परचा RMS के साथ",
+      "subtitle": "आपके मेनू, इन्वेंट्री, कर्मचारियों और ऑर्डर को सहजता से प्रबंधित करने के लिए ऑल-इन-वन डिजिटल प्लेटफॉर्म। दक्षता बढ़ाएँ, राजस्व बढ़ाएँ, और अपने ग्राहकों को खुश करें।",
+      "primaryCta": "मुफ़्त में शुरू करें",
+      "secondaryCta": "ऐप डाउनलोड करें"
+    },
+    "whatIsRMS": {
+      "title": "\"आप का परचा\" RMS क्या है?",
+      "description": "रेस्टोरेंट मैनेजमेंट सिस्टम (RMS) एक व्यापक डिजिटल प्लेटफ़ॉर्म है जिसे रेस्टोरेंट, कैफे, बार, होटल और अन्य सेवा व्यवसायों के संचालन के तरीके में क्रांति लाने के लिए डिज़ाइन किया गया है। यह पारंपरिक कागज-आधारित ऑर्डरिंग को एक सहज डिजिटल अनुभव में बदल देता है जिससे ग्राहकों और व्यापार मालिकों दोनों को लाभ होता है।"
+    },
+    "homeSolutions": {
+      "title": "आपके व्यवसाय के लिए विशेष",
+      "subtitle": "आपका आकार या विशेषता कुछ भी हो, आप का परचा के पास आपकी अनूठी जरूरतों को पूरा करने के लिए एक समाधान है।",
+      "items": [
+        { "icon": "MenuAlt2Icon", "title": "रेस्टोरेंट", "description": "किसी भी भोजन अनुभव के लिए ऑर्डर सुव्यवस्थित करें, टेबल प्रबंधित करें और रसोई वर्कफ़्लो को अनुकूलित करें।", "href": "/solutions/restaurant" },
+        { "icon": "CoffeeIcon", "title": "कैफे", "description": "तेज ऑर्डरिंग, सरल इन्वेंट्री और ग्राहक वफादारी उपकरणों के साथ व्यस्त समय को संभालें।", "href": "/solutions/cafe" },
+        { "icon": "BeakerIcon", "title": "बार और पब", "description": "पेय इन्वेंट्री, कॉकटेल रेसिपी और त्वरित बिलिंग पर सटीक नियंत्रण प्राप्त करें।", "href": "/solutions/bar" },
+        { "icon": "OfficeBuildingIcon", "title": "होटल", "description": "अपने सभी F&B आउटलेट्स को, इन-रूम डाइनिंग से लेकर अपने रेस्टोरेंट तक, एक प्लेटफॉर्म पर एकीकृत करें।", "href": "/solutions/hotel" }
+      ]
+    },
+    "features": {
+      "owners": {
+        "id": "features",
+        "title": "व्यापार मालिकों और प्रबंधकों के लिए",
+        "subtitle": "आपके व्यवसाय को सशक्त बनाने और आपके संरक्षकों को प्रसन्न करने के लिए उपकरणों का एक पूरा सूट।",
+        "categories": [
+          {
+            "categoryTitle": "व्यापार और आउटलेट प्रबंधन",
+            "features": [
+              { "icon": "OfficeBuildingIcon", "title": "बहु-स्थान समर्थन", "description": "एक ही, सहज डैशबोर्ड से कई आउटलेट प्रबंधित करें।" },
+              { "icon": "UserCircleIcon", "title": "बिजनेस प्रोफाइल प्रबंधन", "description": "व्यावसायिक विवरण, संपर्क जानकारी और ब्रांडिंग को आसानी से अपडेट करें।" },
+              { "icon": "KeyIcon", "title": "सुरक्षित प्रमाणीकरण", "description": "मन की शांति के लिए ओटीपी सत्यापन और पासवर्ड सुरक्षा के साथ सुरक्षित लॉगिन।" },
+              { "icon": "CogIcon", "title": "आउटलेट निर्माण", "description": "अद्वितीय सेटिंग्स, घंटे और क्षमता के साथ कई स्थान स्थापित करें।" }
+            ]
+          },
+          {
+            "categoryTitle": "मेनू और इन्वेंटरी प्रबंधन",
+            "features": [
+              { "icon": "MenuAlt2Icon", "title": "श्रेणी प्रबंधन", "description": "आइटम को ऐपेटाइज़र, मुख्य पाठ्यक्रम, आदि जैसी श्रेणियों में व्यवस्थित करें।" },
+              { "icon": "BookOpenIcon", "title": "रेसिपी प्रबंधन", "description": "स्वचालित, सटीक इन्वेंट्री ट्रैकिंग के लिए मेनू आइटम को सामग्री से लिंक करें।" },
+              { "icon": "CollectionIcon", "title": "वास्तविक समय स्टॉक ट्रैकिंग", "description": "सभी सामग्रियों के लिए इन्वेंट्री स्तरों की निगरानी करें और कम स्टॉक अलर्ट प्राप्त करें।" },
+              { "icon": "CashIcon", "title": "लागत विश्लेषण", "description": "बेहतर मूल्य निर्धारण के लिए प्रत्येक मेनू आइटम के उत्पादन की सटीक लागत की गणना करें।" }
+            ]
+          },
+          {
+            "categoryTitle": "कर्मचारी और टेबल प्रबंधन",
+            "features": [
+              { "icon": "UserGroupIcon", "title": "भूमिका-आधारित पहुँच", "description": "प्रबंधकों, कर्मचारियों, रसोई आदि के लिए अलग-अलग अनुमतियाँ असाइन करें।" },
+              { "icon": "UsersIcon", "title": "कर्मचारी प्रदर्शन ट्रैकिंग", "description": "कर्मचारियों की गतिविधियों, ऑर्डर प्रोसेसिंग समय और दक्षता की निगरानी करें।" },
+              { "icon": "TableIcon", "title": "टेबल स्थिति और बैठने की व्यवस्था", "description": "वास्तविक समय में टेबल की उपलब्धता, अधिभोग को ट्रैक करें और असाइनमेंट प्रबंधित करें।" },
+              { "icon": "QrCodeIcon", "title": "क्यूआर कोड जनरेशन", "description": "प्रत्येक तालिका के लिए अद्वितीय क्यूआर कोड बनाएं। (जल्द आ रहा है)" }
+            ]
+          },
+          {
+            "categoryTitle": "आदेश प्रसंस्करण और विश्लेषिकी",
+            "features": [
+              { "icon": "ShoppingCartIcon", "title": "वास्तविक समय के आदेश", "description": "जब ग्राहक नए ऑर्डर देते हैं तो तत्काल सूचनाएं प्राप्त करें।" },
+              { "icon": "ClockIcon", "title": "आदेश स्थिति ट्रैकिंग", "description": "विशेष निर्देशों सहित लंबित से पूर्ण तक के आदेशों की निगरानी करें।" },
+              { "icon": "ChartBarIcon", "title": "बिक्री विश्लेषिकी", "description": "रुझानों की पहचान करने के लिए दैनिक, साप्ताहिक और मासिक बिक्री प्रदर्शन को ट्रैक करें।" },
+              { "icon": "LightBulbIcon", "title": "व्यावसायिक बुद्धिमत्ता", "description": "संचालन का अनुकूलन करें और प्रमुख प्रदर्शन मेट्रिक्स के साथ विकास को ट्रैक करें।" }
+            ]
+          }
+        ]
+      }
+    },
+    "solutions": {
+      "restaurant": {
+        "pageTitle": "रेस्टोरेंट मैनेजमेंट सिस्टम | आप का परचा RMS",
+        "metaDescription": "आपके संचालन को सुव्यवस्थित करने के लिए अंतिम रेस्टोरेंट मैनेजमेंट सिस्टम (RMS)। आप का परचा के साथ टेबल, ऑर्डर, किचन और इन्वेंट्री को सहजता से प्रबंधित करें।",
+        "hero": {
+          "titleLine1": "आपके रेस्टोरेंट के लिए",
+          "titleLine2": "सर्वश्रेष्ठ प्रबंधन प्रणाली",
+          "subtitle": "फाइन डाइनिंग से लेकर फास्ट कैजुअल तक, हमारा RMS आपको टेबल टर्नओवर बढ़ाने, जटिल ऑर्डर प्रबंधित करने और एक असाधारण भोजन अनुभव प्रदान करने के लिए आवश्यक उपकरण प्रदान करता है।",
+          "primaryCta": "अपने रेस्टोरेंट का अनुकूलन करें",
+          "secondaryCta": "डेमो देखें"
+        },
+        "features": {
+          "id": "restaurant-features",
+          "title": "रेस्टोरेंट के लिए डिज़ाइन की गई सुविधाएँ",
+          "subtitle": "एक सफल और कुशल रेस्टोरेंट चलाने के लिए आपको जो कुछ भी चाहिए।",
+          "categories": [
+            { "categoryTitle": "मुख्य रेस्टोरेंट संचालन", "features": [
+                { "icon": "TableIcon", "title": "उन्नत टेबल प्रबंधन", "description": "अपने फ्लोर प्लान की कल्पना करें, वास्तविक समय में टेबल की स्थिति को ट्रैक करें, और आरक्षण को कुशलतापूर्वक प्रबंधित करें।" },
+                { "icon": "ShoppingCartIcon", "title": "किचन ऑर्डर टिकट (KOT)", "description": "तेज़, त्रुटि-मुक्त तैयारी के लिए सीधे रसोई में ऑर्डर प्रिंटिंग को स्वचालित करें।" },
+                { "icon": "MenuAlt2Icon", "title": "गतिशील मेनू इंजीनियरिंग", "description": "आसानी से दैनिक विशेष, हैप्पी आवर मेनू बनाएं, और आइटम की उपलब्धता को तुरंत अपडेट करें।" },
+                { "icon": "ClockIcon", "title": "वास्तविक समय ऑर्डर ट्रैकिंग", "description": "गुणवत्ता और गति सुनिश्चित करते हुए, रखे जाने के क्षण से लेकर परोसे जाने तक हर ऑर्डर की निगरानी करें।" }
+            ]}
+          ]
+        }
+      },
+      "cafe": {
+        "pageTitle": "कैफे मैनेजमेंट सॉफ्टवेयर | आप का परचा RMS",
+        "metaDescription": "हमारे ऑल-इन-वन मैनेजमेंट सॉफ्टवेयर के साथ अपने कैफे को सुव्यवस्थित करें। त्वरित ऑर्डर संभालें, कॉफी और पेस्ट्री के लिए इन्वेंट्री प्रबंधित करें, और ग्राहक वफादारी का निर्माण करें।",
+        "hero": {
+          "titleLine1": "आपके कैफे के लिए",
+          "titleLine2": "सरल प्रबंधन सॉफ्टवेयर",
+          "subtitle": "तेजी से बदलते कैफे वातावरण के लिए डिज़ाइन किया गया। अपनी ऑर्डरिंग प्रक्रिया को गति दें, आसानी से इन्वेंट्री प्रबंधित करें, और अपने ग्राहकों को और अधिक के लिए वापस लाते रहें।",
+          "primaryCta": "अपने कैफे को सुव्यवस्थित करें",
+          "secondaryCta": "सुविधाओं का अन्वेषण करें"
+        },
+        "features": {
+          "id": "cafe-features",
+          "title": "कैफे के लिए डिज़ाइन की गई सुविधाएँ",
+          "subtitle": "एक प्रतिस्पर्धी बाजार में आपके कैफे को फलने-फूलने में मदद करने के लिए उपकरण।",
+          "categories": [
+            { "categoryTitle": "मुख्य कैफे संचालन", "features": [
+                { "icon": "RocketLaunchIcon", "title": "त्वरित सेवा आदेश", "description": "उच्च-मात्रा वाले वॉक-इन और टेकअवे ऑर्डर को संभालने के लिए गति के लिए अनुकूलित एक इंटरफ़ेस।" },
+                { "icon": "StarIcon", "title": "ग्राहक वफादारी कार्यक्रम", "description": "अपने नियमित ग्राहकों को पुरस्कृत करने और बार-बार व्यवसाय बढ़ाने के लिए वफादारी कार्यक्रम बनाएं और प्रबंधित करें।" },
+                { "icon": "CollectionIcon", "title": "घटक-स्तरीय इन्वेंटरी", "description": "कम स्टॉक अलर्ट प्राप्त करने और बर्बादी को कम करने के लिए कॉफी बीन्स, दूध, सिरप और पेस्ट्री को ट्रैक करें।" },
+                { "icon": "CashIcon", "title": "आसान भुगतान प्रसंस्करण", "description": "ग्राहक सुविधा के लिए कार्ड, यूपीआई और डिजिटल वॉलेट सहित कई भुगतान विधियों को स्वीकार करें।" }
+            ]}
+          ]
+        }
+      },
+      "bar": {
+        "pageTitle": "बार प्रबंधन और इन्वेंटरी सिस्टम | आप का परचा RMS",
+        "metaDescription": "इन्वेंट्री नियंत्रण, तेज़ बिलिंग और रेसिपी प्रबंधन के लिए संपूर्ण बार प्रबंधन प्रणाली। हर पेय को ट्रैक करें और अपने बार की लाभप्रदता को अधिकतम करें।",
+        "hero": {
+          "titleLine1": "आपके बार के लिए",
+          "titleLine2": "बुद्धिमान प्रबंधन प्रणाली",
+          "subtitle": "सटीक इन्वेंट्री ट्रैकिंग, तेज़ बिलिंग और शक्तिशाली रेसिपी प्रबंधन के साथ लाभप्रदता और दक्षता को अधिकतम करें। अपने बार संचालन पर पूर्ण नियंत्रण रखें।",
+          "primaryCta": "अपने बार को नियंत्रित करें",
+          "secondaryCta": "जानकारी का अनुरोध करें"
+        },
+        "features": {
+          "id": "bar-features",
+          "title": "बार और पब के लिए डिज़ाइन की गई सुविधाएँ",
+          "subtitle": "अपनी इन्वेंट्री, कर्मचारियों और बिक्री को सटीकता से प्रबंधित करने के लिए उपकरण।",
+          "categories": [
+            { "categoryTitle": "मुख्य बार संचालन", "features": [
+                { "icon": "CollectionIcon", "title": "पेय इन्वेंटरी नियंत्रण", "description": "शराब, बीयर और वाइन को मिलीलीटर तक ट्रैक करें। हर ऑर्डर के साथ स्टॉक कटौती को स्वचालित करें।" },
+                { "icon": "BookOpenIcon", "title": "कॉकटेल रेसिपी प्रबंधन", "description": "स्थिरता और सटीक इन्वेंट्री ट्रैकिंग सुनिश्चित करने के लिए अपने सभी कॉकटेल के लिए रेसिपी परिभाषित करें।" },
+                { "icon": "CreditCardIcon", "title": "तेज़ बिलिंग और स्प्लिट भुगतान", "description": "जल्दी से बिल बनाएं और ग्राहकों को खुश रखने के लिए उन्हें आसानी से समूहों के बीच विभाजित करें।" },
+                { "icon": "ChartBarIcon", "title": "बिक्री और लाभ विश्लेषिकी", "description": "अपने मेनू और स्टाफिंग को अनुकूलित करने के लिए अपने सबसे लाभदायक पेय और चरम घंटों की पहचान करें।" }
+            ]}
+          ]
+        }
+      },
+      "hotel": {
+        "pageTitle": "होटल रेस्टोरेंट प्रबंधन | आप का परचा RMS",
+        "metaDescription": "अपने होटल के रेस्टोरेंट, बार और रूम सर्विस संचालन को एक ही, शक्तिशाली RMS के साथ एकीकृत करें। अपने सभी F&B आउटलेट्स पर ऑर्डर, बिलिंग और इन्वेंट्री प्रबंधित करें।",
+        "hero": {
+          "titleLine1": "आपके होटल के लिए",
+          "titleLine2": "एकीकृत F&B प्रबंधन",
+          "subtitle": "अपने होटल के रेस्टोरेंट, इन-रूम डाइनिंग और बार को एक ही प्लेटफॉर्म से सहजता से प्रबंधित करें। अंतिम दक्षता के लिए ऑर्डर, इन्वेंट्री और बिलिंग को समेकित करें।",
+          "primaryCta": "अपने संचालन को एकीकृत करें",
+          "secondaryCta": "परामर्श बुक करें"
+        },
+        "features": {
+          "id": "hotel-features",
+          "title": "होटलों के लिए डिज़ाइन की गई सुविधाएँ",
+          "subtitle": "आपके सभी खाद्य और पेय आउटलेट के लिए एक एकीकृत समाधान।",
+          "categories": [
+            { "categoryTitle": "मुख्य होटल F&B संचालन", "features": [
+                { "icon": "OfficeBuildingIcon", "title": "बहु-आउटलेट प्रबंधन", "description": "अपने रेस्टोरेंट, बार, कैफे और पूलसाइड सेवा को एक केंद्रीय डैशबोर्ड से प्रबंधित करें।" },
+                { "icon": "DeviceMobileIcon", "title": "इन-रूम डाइनिंग और रूम सर्विस", "description": "मेहमानों को सीधे उनके कमरों से ऑर्डर करने और शुल्कों को सीधे उनके ठहरने पर बिल करने की अनुमति दें।" },
+                { "icon": "UserGroupIcon", "title": "केंद्रीकृत अतिथि प्रोफाइल", "description": "व्यक्तिगत सेवा के लिए सभी F&B आउटलेट्स पर अतिथि वरीयताओं और ऑर्डर इतिहास को ट्रैक करें।" },
+                { "icon": "ServerIcon", "title": "PMS के साथ एकीकरण", "description": "सहज बिलिंग और संचालन के लिए अपने मौजूदा संपत्ति प्रबंधन प्रणाली के साथ सिंक करें। (जल्द आ रहा है)" }
+            ]}
+          ]
+        }
+      }
+    },
+    "benefits": {
+      "id": "benefits",
+      "title": "व्यावसायिक लाभ",
+      "subtitle": "अपने रेस्टोरेंट की पूरी क्षमता को अनलॉक करें और ठोस परिणाम देखें।",
+      "items": [
+        { "icon": "RocketLaunchIcon", "title": "बढ़ा हुआ राजस्व", "description": "उच्च टेबल टर्नओवर, अपसेलिंग के अवसर, और बेहतर ग्राहक संतुष्टि से अधिक व्यवसाय होता है।" },
+        { "icon": "CashIcon", "title": "लागत में कमी", "description": "कम श्रम लागत, कचरे को कम करने के लिए अनुकूलित इन्वेंट्री, और त्रुटि में कमी से आपके पैसे बचते हैं।" },
+        { "icon": "CogIcon", "title": "परिचालन दक्षता", "description": "सुव्यवस्थित प्रक्रियाएं, रीयल-टाइम डेटा एक्सेस और बेहतर स्टाफ उत्पादकता।" },
+        { "icon": "StarIcon", "title": "उन्नत ग्राहक अनुभव", "description": "आधुनिक सुविधा, संपर्क रहित सेवा और वैयक्तिकरण ग्राहकों को वापस लाते रहते हैं।" },
+        { "icon": "ServerIcon", "title": "24/7 व्यापार संचालन", "description": "सिस्टम सुरक्षित डेटा बैकअप, रिकवरी और मल्टी-डिवाइस सपोर्ट के साथ लगातार चलता है।" },
+        { "icon": "WifiOffIcon", "title": "ऑफ़लाइन क्षमता", "description": "आंतरायिक इंटरनेट समस्याओं के साथ भी बुनियादी कार्यक्षमता उपलब्ध रहती है।" }
+      ]
+    },
+    "gettingStarted": {
+      "id": "get-started",
+      "title": "शुरुआत करना आसान है",
+      "subtitle": "अपने रेस्टोरेंट संचालन को डिजिटल बनाने के लिए इन सरल चरणों का पालन करें।",
+      "owner": {
+        "title": "व्यापार मालिकों के लिए",
+        "steps": [
+          { "icon": "UserCircleIcon", "title": "व्यवसाय पंजीकृत करें", "description": "सरल पंजीकरण प्रक्रिया को पूरा करें।" },
+          { "icon": "OfficeBuildingIcon", "title": "आउटलेट स्थापित करें", "description": "स्थान विवरण और संचालन के घंटे जोड़ें।" },
+          { "icon": "MenuAlt2Icon", "title": "मेनू बनाएं", "description": "मूल्यों के साथ श्रेणियां और मेनू आइटम जोड़ें।" },
+          { "icon": "CollectionIcon", "title": "इन्वेंटरी कॉन्फ़िगर करें", "description": "सामग्री सेट करें और उन्हें मेनू आइटम से लिंक करें।" },
+          { "icon": "UserGroupIcon", "title": "कर्मचारियों को प्रशिक्षित करें", "description": "कर्मचारी खाते स्थापित करें और उन्हें सिस्टम पर प्रशिक्षित करें।" },
+          { "icon": "RocketLaunchIcon", "title": "लाइव जाएं", "description": "ग्राहकों से डिजिटल ऑर्डर स्वीकार करना शुरू करें।" }
+        ]
+      }
+    },
+    "security": {
+      "title": "सुरक्षा और गोपनीयता पहले",
+      "subtitle": "हम आपके व्यवसाय और ग्राहक डेटा को उद्योग-अग्रणी सुरक्षा मानकों के साथ सुरक्षित रखने के लिए प्रतिबद्ध हैं।",
+      "features": [
+        { "icon": "ShieldCheckIcon", "title": "सुरक्षित प्रमाणीकरण", "description": "सभी व्यावसायिक खातों के लिए बहु-कारक प्रमाणीकरण।" },
+        { "icon": "🔒", "title": "एन्क्रिप्टेड डेटा", "description": "सभी संवेदनशील व्यवसाय और ग्राहक जानकारी पूरी तरह से एन्क्रिप्टेड है।" },
+        { "icon": "EyeOffIcon", "title": "गोपनीयता अनुपालन", "description": "मजबूत ग्राहक डेटा सुरक्षा और गोपनीयता नियंत्रण।" },
+        { "icon": "CloudUploadIcon", "title": "नियमित बैकअप", "description": "डेटा हानि को रोकने के लिए स्वचालित डेटा बैकअप और पुनर्प्राप्ति प्रणाली।" },
+        { "icon": "CreditCardIcon", "title": "पीसीआई अनुपालन", "description": "सुरक्षित भुगतान प्रसंस्करण मानकों का पालन।" },
+        { "icon": "KeyIcon", "title": "टोकनाइज्ड भुगतान", "description": "सुरक्षित भुगतान सूचना प्रबंधन और धोखाधड़ी संरक्षण।" }
+      ]
+    },
+    "comingSoon": {
+      "title": "भविष्य के संवर्द्धन",
+      "subtitle": "हम लगातार नवाचार कर रहे हैं। यहाँ एक चुपके से झांकना है कि आगे क्या आ रहा है।",
+      "features": [
+        { "icon": "QrCodeIcon", "title": "क्यूआर कोड जनरेशन", "description": "ग्राहक स्व-ऑर्डरिंग सक्षम करने के लिए प्रत्येक तालिका के लिए अद्वितीय क्यूआर कोड बनाएं।" },
+        { "icon": "RefreshIcon", "title": "तृतीय-पक्ष एकीकरण", "description": "ज़ोमैटो और स्विगी जैसे खाद्य वितरण प्लेटफार्मों के साथ एकीकरण।" },
+        { "icon": "StarIcon", "title": "वफादारी कार्यक्रम", "description": "बार-बार आने वाले ग्राहकों के लिए उनके ऑर्डर इतिहास के आधार पर पुरस्कार लागू करें।" },
+        { "icon": "SearchCircleIcon", "title": "उन्नत विश्लेषिकी", "description": "बिक्री पैटर्न, ग्राहक वरीयताओं और इन्वेंट्री ऑप्टिमाइज़ेशन में गहरी अंतर्दृष्टि।" },
+        { "icon": "TableIcon", "title": "टेबल आरक्षण प्रणाली", "description": "ग्राहकों को पहले से टेबल बुक करने की अनुमति दें।" },
+        { "icon": "CodeIcon", "title": "पीओएस सिस्टम के साथ एकीकरण", "description": "मौजूदा पॉइंट ऑफ़ सेल सिस्टम के साथ सिंक करें।" },
+        { "icon": "LightBulbIcon", "title": "एआई-संचालित सिफारिशें", "description": "वरीयताओं के आधार पर ग्राहकों को मेनू आइटम सुझाएं।" },
+        { "icon": "DeviceTabletIcon", "title": "मोबाइल ऐप संस्करण", "description": "और भी सहज अनुभव के लिए समर्पित मोबाइल एप्लिकेशन।" }
+      ]
+    },
+    "downloadsPage": {
+      "title": "आप का परचा डाउनलोड करें",
+      "subtitle": "अपने पसंदीदा प्लेटफॉर्म पर शुरुआत करें। कहीं से भी अपने रेस्टोरेंट के डैशबोर्ड तक पहुंचें।",
+      "cards": [
+        { "icon": "AndroidIcon", "platform": "Android", "description": "हमारे पूरी तरह से चित्रित एंड्रॉइड एप्लिकेशन के साथ चलते-फिरते अपने व्यवसाय का प्रबंधन करें।" },
+        { "icon": "WindowsIcon", "platform": "Windows", "description": "आपके विंडोज पीसी पर व्यापक प्रबंधन के लिए शक्तिशाली डेस्कटॉप अनुभव।" },
+        { "icon": "AppleIcon", "platform": "macOS", "description": "आपके macOS उपकरणों के लिए एक चिकना और सहज देशी एप्लिकेशन।" },
+        { "icon": "WebIcon", "platform": "Web App", "description": "अपने ब्राउज़र से सीधे टूल के पूरे सूट तक पहुंचें। कोई स्थापना की आवश्यकता नहीं है।" }
+      ],
+      "cta": "अभी डाउनलोड करें"
+    },
+    "footer": {
+      "tagline": "रेस्टोरेंट संचालन को एक सहज डिजिटल अनुभव में बदलना।",
+      "copyright": "© {year} आप का परचा RMS. सर्वाधिकार सुरक्षित।"
+    },
+    "notFoundPage": {
+      "title": "पृष्ठ नहीं मिला",
+      "subtitle": "ओह! आप जिस पृष्ठ की तलाश कर रहे हैं वह मौजूद नहीं है।",
+      "cta": "मुखपृष्ठ पर जाएं"
+    }
+  }
+}
