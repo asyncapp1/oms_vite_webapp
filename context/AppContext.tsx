@@ -21,7 +21,7 @@ export const AppProvider: React.FC<{children: React.ReactNode}> = ({ children })
     React.useEffect(() => {
         const fetchContent = async () => {
             try {
-                const response = await fetch('/data/content.json');
+                const response = await fetch('/content.json');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
